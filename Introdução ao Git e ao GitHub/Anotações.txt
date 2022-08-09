@@ -1,2 +1,8 @@
 Link para download do Git: https://git-scm.com/downloads
 O Git Bash é um terminal extendido para otimizar o uso do Git.
+A programação orientada a objetos tem os seguintes pilares: Abstração, Encapsulamento, Herança e Polimorfismo
+Em programação orientada a objetos, podemos definir os termos desta forma:
+Classe : é a descrição das propriedades e comportamentos de um tipo de objeto
+Objeto : é a concretização da descrição fornecida pela classe.
+Instância : um dado objeto criado a partir da classe.
+
