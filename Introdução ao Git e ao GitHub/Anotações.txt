@@ -6,3 +6,8 @@ Classe : é a descrição das propriedades e comportamentos de um tipo de objeto
 Objeto : é a concretização da descrição fornecida pela classe.
 Instância : um dado objeto criado a partir da classe.
 
+A linguagem Java possui quatro grandes pilares que são: classe, objeto, método e atributo
+Classe  - relacionado à modelagem
+Objeto – relacionado à ideia de instância
+Método – relacionado a comportamento
+Atributo – relacionado a características 
